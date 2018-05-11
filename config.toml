@@ -1,0 +1,101 @@
+baseurl = "https://www.eikens.com/"
+languageCode = "en-us"
+title = "Guus Eikens"
+
+# Pagination
+paginate = 3
+paginatePath = "page"
+
+# Theme to use
+theme = "hugo-material-blog"
+
+# Copyright, appears in the footer
+copyright = "© 2018 Guus Eikens"
+
+# Links format
+[permalinks]
+  post = "/:year/:month/:title/"
+
+# Localization
+defaultContentLanguage = "en"
+
+# English
+[languages.en]
+  languageName = "English"
+
+  # Main menu
+  [[languages.en.menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+  # Footer menu 1
+  [[languages.en.menu.footer1]]
+    url = "#"
+    name = "Service 1"
+    weight = 1
+  [[languages.en.menu.footer1]]
+    url = "#"
+    name = "Service 2"
+    weight = 2
+
+  # Footer menu 2
+  [[languages.en.menu.footer2]]
+    url = "/"
+    name = "Home"
+    weight = 1
+  [[languages.en.menu.footer2]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+
+  # Include menus in footer
+  [[languages.en.params.footer_menus]]
+    name = "Services"
+    menu = "footer2"
+  [[languages.en.params.footer_menus]]
+    name = "Links"
+    menu = "footer1"
+
+# French
+[languages.nl]
+  languageName = "Nederlands"
+
+  # Main menu
+  [[languages.nl.menu.main]]
+    url = "/nl/"
+    name = "Accueil"
+    weight = 1
+
+  # Footer menu 1
+  [[languages.nl.menu.footer1]]
+    url = "#"
+    name = "Service 1"
+    weight = 1
+  [[languages.nl.menu.footer1]]
+    url = "#"
+    name = "Service 2"
+    weight = 2
+
+  # Footer menu 2
+  [[languages.nl.menu.footer2]]
+    url = "/nl/"
+    name = "Accueil"
+    weight = 1
+  [[languages.nl.menu.footer2]]
+    url = "/nl/about/"
+    name = "Sur"
+    weight = 2
+
+  # Include menus in footer
+  [[languages.nl.params.footer_menus]]
+    name = "Services"
+    menu = "footer2"
+  [[languages.nl.params.footer_menus]]
+    name = "Links"
+    menu = "footer1"
+
+# Other params
+[params]
+  # Display post summaries instead of content in list templates (default: true)
+  # truncate = false

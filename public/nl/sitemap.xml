@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.eikens.com/nl/about/</loc>
+    <lastmod>2018-05-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eikens.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.eikens.com/nl/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.eikens.com/nl/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eikens.com/2014/09/creating-a-new-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.eikens.com/nl/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.eikens.com/nl/2014/04/d%C3%A9buter-avec-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eikens.com/2014/04/getting-started-with-hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.eikens.com/nl/2014/04/d%C3%A9buter-avec-hugo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.eikens.com/nl/2014/04/introduction-aux-mod%C3%A8les-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eikens.com/2014/04/hugo-template-primer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.eikens.com/nl/2014/04/introduction-aux-mod%C3%A8les-hugo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.eikens.com/nl/2014/03/migrer-vers-hugo-depuis-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eikens.com/2014/03/migrate-to-hugo-from-jekyll/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.eikens.com/nl/2014/03/migrer-vers-hugo-depuis-jekyll/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.eikens.com/nl/</loc>
+    <lastmod>2018-05-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eikens.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.eikens.com/nl/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.eikens.com/nl/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eikens.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.eikens.com/nl/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.eikens.com/nl/categories/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.eikens.com/nl/categories/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.eikens.com/nl/categories/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.eikens.com/nl/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eikens.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.eikens.com/nl/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.eikens.com/nl/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eikens.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.eikens.com/nl/tags/"
+                />
+  </url>
+  
+</urlset>
