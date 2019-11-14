@@ -1,0 +1,9 @@
+server_name:
+    host: ""
+    user: ""
+    pass: ""
+    include: 
+        "dist/**": "/"
+    path:
+        local: "dist/"
+        remote: "guus/"
