@@ -1,9 +1,0 @@
-[submodule "themes/hugo-sustain"]
-	path = themes/hugo-sustain
-	url = https://github.com/nurlansu/hugo-sustain.git
-[submodule "themes/hugo-bootstrap"]
-	path = themes/hugo-bootstrap
-	url = https://github.com/Xzya/hugo-bootstrap.git
-[submodule "themes/hugo-material-blog"]
-	path = themes/hugo-material-blog
-	url = https://github.com/Xzya/hugo-material-blog.git
