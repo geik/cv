@@ -3,7 +3,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'index.docker.io/v1/geik/vuepress:1.0.0'
+  vmImage: 'ubuntu-latest'
 
 steps:
 
