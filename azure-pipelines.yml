@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'geik/vuepress'
+  vmImage: 'index.docker.io/v1/geik/vuepress:1.0.0'
 
 steps:
 - script: echo Hello, world!
