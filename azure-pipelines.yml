@@ -7,12 +7,12 @@ pool:
 
 steps:
 
-- script: Let's tell something abount the environment
-  displayName: 'Show environment'
 - script: |
     pwd
     ls -aR .
     ls -aR $(Build.Repository.LocalPath)
+    
+  displayName: 'Show environment'
 
 - task: Docker@0
 
