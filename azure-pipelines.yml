@@ -19,7 +19,7 @@ steps:
 
     action: 'Run an image'
 
-    imageName: 'index.docker.io/v1/vuepress:1.0.0'
+    imageName: 'geik/vuepress:1.0.0'
 
     containerCommand: 'pwsh /build-sidebar.json.ps1 ./content'
 
