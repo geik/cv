@@ -21,6 +21,6 @@ steps:
 
     imageName: 'geik/vuepress:1.0.0'
 
-    containerCommand: 'pwsh /build-sidebar.json.ps1 ./content'
+    containerCommand: 'pwsh /build-sidebar.json.ps1 $(System.DefaultWorkingDirectory)/content'
 
     detached: false
