@@ -11,8 +11,8 @@ steps:
 
 - script: |
     pwd
-    ls -aR $(Build.Repository.LocalPath)
     pwsh /build-sidebar.json.ps1 $(Build.Repository.LocalPath)/content
+    cat $(Build.Repository.LocalPath)/content/.vuepress/sidebar.json
     
   displayName: 'Build the vuepress site from markdown files'
 
