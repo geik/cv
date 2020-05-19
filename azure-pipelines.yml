@@ -16,3 +16,4 @@ steps:
     pwsh /build-sidebar.json.ps1 ./content
     
   displayName: 'Build the vuepress site from markdown files'
+
