@@ -28,6 +28,8 @@ steps:
 
     imageName: 'geik/vuepress:1.0.0'
 
+    workingDirectory: .
+
     containerCommand: 'pwsh /build-sidebar.json.ps1 content'
 
     detached: false
