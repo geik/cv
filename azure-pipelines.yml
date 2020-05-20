@@ -9,24 +9,24 @@ container: 'geik/vuepress:1.0.0'
 
 steps:
 
-# - script: |
-#     pwd
+- script: |
+    pwd
 
-#   displayName: 'Show me the build environment'
+  displayName: 'Show me the build environment'
 
-# - script: |
-#     pwsh /build-sidebar.json.ps1 $(Build.Repository.LocalPath)/content
-#     cat $(Build.Repository.LocalPath)/content/.vuepress/sidebar.json
+- script: |
+    pwsh /build-sidebar.json.ps1 $(Build.Repository.LocalPath)/content
+    cat $(Build.Repository.LocalPath)/content/.vuepress/sidebar.json
     
-#   displayName: 'Generate the sidebar based on the markdown files'
+  displayName: 'Generate the sidebar based on the markdown files'
 
-# - script: |
-#     vuepress build $(Build.Repository.LocalPath)/content
+- script: |
+    vuepress build $(Build.Repository.LocalPath)/content
     
-#   displayName: 'Build the vuepress site from markdown files'  
+  displayName: 'Build the vuepress site from markdown files'  
 
 - script: |
     sshpass -p $(SFTP_PASSWORD) ssh -o StrictHostKeyChecking=no eikens.com@ssh.eikens.com
-    lftp sftp://eikens.com:$(SFTP_PASSWORD)@ssh.eikens.com -e "ls; bye"
+    lftp sftp://eikens.com:$(SFTP_PASSWORD)@ssh.eikens.com -e "mkdir /test; cd /test; mput $(Build.Repository.LocalPath)/content/.vuepress/dist/*; bye"
     
   displayName: 'Copy the generated vuepress site to the target location'
