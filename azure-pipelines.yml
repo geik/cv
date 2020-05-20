@@ -27,6 +27,6 @@ steps:
 
 - script: |
     sshpass -p $(SFTP_PASSWORD) ssh -o StrictHostKeyChecking=no eikens.com@ssh.eikens.com
-    lftp sftp://eikens.com:$(SFTP_PASSWORD)@ssh.eikens.com -e "mirror $(Build.Repository.LocalPath)/content/.vuepress/dist/* ./guus"
+    lftp sftp://eikens.com:$(SFTP_PASSWORD)@ssh.eikens.com -e "mirror -R $(Build.Repository.LocalPath)/content/.vuepress/dist/* ./guus"
     
   displayName: 'Copy the generated vuepress site to the target location'
