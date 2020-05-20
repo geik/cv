@@ -27,6 +27,6 @@ steps:
 
 - script: |
     sshpass -p "$(SFTP_PASSWORD)" ssh eikens.com@ssh.eikens.com
-    lftp -u "eikens.com,$(SFTP_PASSWORD)" ssh.eikens.com -e "ls; bye"
+    lftp sftp://eikens.com:$(SFTP_PASSWORD)@ssh.eikens.com -e "ls; bye"
     
   displayName: 'Copy the generated vuepress site to the target location'
