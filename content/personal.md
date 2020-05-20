@@ -5,7 +5,7 @@
 Guus Eikens | &nbsp;
 --- | ---
 &nbsp; | Geboren Amsterdam, 21 april 1968<br/>Getrouwd met Rosan<br/>3 zonen Jorg, Luuk en Merijn<br/>In bezit van rijbewijs
-Adres | Prinses Ireneplateau 123<br/>3554 HW Utrecht<br/>Nederland
+Adres | Utrecht<br/>Nederland
 Telefoon | [+31 6 30 38 32 88](phone:+31630383288)
 E-mail | [guus@eikens.com](mailto:guus@eikens.com)
 LinkedIn | <http://www.linkedin.com/in/guuseikens>
