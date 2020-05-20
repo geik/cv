@@ -26,9 +26,9 @@ steps:
   displayName: 'Build the vuepress site from markdown files'  
 
 - script: |
-    yum update -y
-    yum install -y lftp
-    yum install -y sshpass
+    sudo yum update -y
+    sudo yum install -y lftp
+    sudo yum install -y sshpass
     sshpass -p $env:SFTP_PASSWORD ssh eikens.com@ssh.eikens.com
     lftp -u eikens.com,$env:SFTP_PASSWORD ssh.eikens.com -e "ls; bye"
     
