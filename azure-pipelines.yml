@@ -26,9 +26,9 @@ steps:
   displayName: 'Build the vuepress site from markdown files'  
 
 - script: |
-    apt update -y
-    apt install lftp -y
-    apt install sshpass -y
+    sudo apt-get update -y
+    sudo apt-get install lftp -y
+    sudo apt-get install sshpass -y
     sshpass -p $env:SFTP_PASSWORD ssh eikens.com@ssh.eikens.com
     lftp -u eikens.com,$env:SFTP_PASSWORD ssh.eikens.com -e "ls; bye"
     
