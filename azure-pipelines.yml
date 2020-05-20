@@ -11,8 +11,25 @@ steps:
 
 - script: |
     pwd
+
+  displayName: 'Show me the build environment'
+
+- script: |
     pwsh /build-sidebar.json.ps1 $(Build.Repository.LocalPath)/content
     cat $(Build.Repository.LocalPath)/content/.vuepress/sidebar.json
     
-  displayName: 'Build the vuepress site from markdown files'
+  displayName: 'Generate the sidebar based on the markdown files'
 
+- script: |
+    vuepress build $(Build.Repository.LocalPath)/content
+    
+  displayName: 'Build the vuepress site from markdown files'  
+
+- script: |
+    sudo apt-get update -y
+    sudo apt-get install lftp -y
+    sudo apt-get install sshpass -y
+    sshpass -p $(SFTP_PASSWORD) ssh eikens.com@ssh.eikens.com
+    lftp -u eikens.com,$(SFTP_PASSWORD) ssh.eikens.com -e "ls; bye"
+    
+  displayName: 'Copy the generated vuepress site to the target location'  
