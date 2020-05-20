@@ -1,8 +1,8 @@
 const sb = require("./sidebar.json");
 
 module.exports = {
-  title: 'VuePress demo',
-  description: 'Just playing around',
+  title: 'Guus Eikens',
+  description: 'Guus Eikens curriculum vitae',
   base: "/guus/",
   plugins: [
     'vuepress-plugin-mermaidjs'
