@@ -26,7 +26,7 @@ steps:
   displayName: 'Build the vuepress site from markdown files'  
 
 - script: |
-    sshpass -p $env:SFTP_PASSWORD ssh eikens.com@ssh.eikens.com
+    sshpass -p '$env:SFTP_PASSWORD' ssh eikens.com@ssh.eikens.com
     lftp -u eikens.com,$env:SFTP_PASSWORD ssh.eikens.com -e "ls; bye"
     
   displayName: 'Copy the generated vuepress site to the target location'
