@@ -15,7 +15,7 @@ steps:
   displayName: 'Show me the build environment'
 
 - script: |
-    pwsh /build-sidebar.json.ps1 $(Build.Repository.LocalPath)/content
+    pwsh /build-sidebar.json.ps1 $(Build.Repository.LocalPath)/2022
     cat $(Build.Repository.LocalPath)/2022/.vuepress/sidebar.json
     
   displayName: 'Generate the sidebar based on the markdown files'
@@ -27,6 +27,6 @@ steps:
 
 - script: |
     sshpass -p $(SFTP_PASSWORD) ssh -o StrictHostKeyChecking=no eikens.com@ssh.eikens.com
-    lftp sftp://eikens.com:$(SFTP_PASSWORD)@ssh.eikens.com -e "mirror -R -e --delete $(Build.Repository.LocalPath)/content/.vuepress/dist ./guus; quit"
+    lftp sftp://eikens.com:$(SFTP_PASSWORD)@ssh.eikens.com -e "mirror -R -e --delete $(Build.Repository.LocalPath)/2022/.vuepress/dist ./guus; quit"
     
   displayName: 'Copy the generated vuepress site to the target location'
