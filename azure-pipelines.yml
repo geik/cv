@@ -16,12 +16,12 @@ steps:
 
 - script: |
     pwsh /build-sidebar.json.ps1 $(Build.Repository.LocalPath)/content
-    cat $(Build.Repository.LocalPath)/content/.vuepress/sidebar.json
+    cat $(Build.Repository.LocalPath)/2022/.vuepress/sidebar.json
     
   displayName: 'Generate the sidebar based on the markdown files'
 
 - script: |
-    vuepress build $(Build.Repository.LocalPath)/content
+    vuepress build $(Build.Repository.LocalPath)/2022
     
   displayName: 'Build the vuepress site from markdown files'  
 
