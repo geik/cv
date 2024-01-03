@@ -1,6 +1,6 @@
 # Projecten
 
-## 2022 - Start Project NEMO
+## 2022 - Project NEMO
 
 > Movir
 

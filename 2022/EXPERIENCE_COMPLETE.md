@@ -2,7 +2,27 @@
 
 ## Software Engineer, DevOps Engineer & Software Architect
 
-### 2019 - heden
+### 2022 - heden
+
+> Movir
+
+- Ontwerpen & implementeren van Nemo; een Cloud-Native verzekeringsadministratie voor arbeidsongeschiktheid. Met daarbinnen onder andere:
+  - Selectie van een strategische business partner
+  - Opzetten van een DevOps team
+  - Brainstorming obv. DDD principes
+  - Architectuur beschrijving & bewaking
+  - Bewaken van kwaliteit & security guidelines & inrichten van geautomatiseerde quality gates
+- Migreren vanuit het verouderdere bestaande systeem Mosys.
+- Integratie met andere IT systemem; intern & extern.
+- Ondersteuning & advies van het Movir Container Platform Team.
+
+#### Tools
+
+Development obv. ASP.Net, CI/CD automation met Azure DevOps, deployment naar Azure PaaS, WSO2 als API Manager.
+ReSharper, SonarQube, Fortify, Renovate als kwaliteitstooling.
+De kaders van het NN Policy House, Azure Guardrails, NN Netwerk inrichting, ITC Framework en de NN Engineering community.
+
+### 2019 - 2022
 
 > Movir
 
