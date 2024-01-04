@@ -5,5 +5,3 @@
 - <span class="glyphicon glyphicon-search">&nbsp;</span><https://guus.eikens.com>
 - <span class="glyphicon glyphicon-home">&nbsp;</span>Utrecht
 - <span class="glyphicon glyphicon-globe">&nbsp;</span>21-4-1968
-
-\pagebreak

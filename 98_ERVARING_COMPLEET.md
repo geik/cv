@@ -223,5 +223,3 @@ Songwriting & Produceren rockmuziek; voor Orphanage, Delain en Within Temptation
 #### Tools
 
 Muziektechnologie, Elektronica, Mac OS, C, C++, Logo, LISP.
-
-\pagebreak

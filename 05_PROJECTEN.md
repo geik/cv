@@ -517,5 +517,3 @@ Advisering, Verkoop, Implementatie, Inrichten, Onderhoud & Ondersteuning. Apple 
 ### Vaardigheden
 
 Muziektechnologie, elektronica, Mac OS.
-
-\pagebreak
