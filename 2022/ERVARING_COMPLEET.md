@@ -6,7 +6,7 @@
 
 > Movir
 
-- Ontwerpen & implementeren van Nemo; een Cloud-Native verzekeringsadministratie voor arbeidsongeschiktheid. Met daarbinnen onder andere:
+- Ontwerpen & implementeren van Nemo; een maatwerk cloud-native verzekeringsadministratie voor arbeidsongeschiktheid. Met daarbinnen onder andere:
   - Selectie van een strategische business partner
   - Opzetten van een DevOps team
   - Brainstorming obv. DDD principes

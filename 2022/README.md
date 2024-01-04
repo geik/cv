@@ -9,7 +9,7 @@
 - Gedreven, enthousiast en creatief
 - Kar-trekker, Lead Developer en harde werker
 
-[Download CV](./file/Guus_Eikens_CV_NL_2017-02-25.pdf)
+[Download CV](./file/Guus_Eikens_CV_NL_2022.pdf)
 
 ## Waar word ik enthousiast van?
 
