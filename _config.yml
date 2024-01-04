@@ -4,7 +4,7 @@ description: Curriculum Vitae
 show_downloads: true
 remote_theme: jasongrimes/jekyll-chapterbook
 
-baseurl_canonical: https://geik.github.io/cv
+baseurl_canonical: https://github.com/geik/cv
 
 # A copyright notice will be shown at the bottom of each page,
 # with the current year and the author name.
@@ -78,7 +78,7 @@ sidebar_toc:
 # Show a link to edit each page on GitHub
 github_edit:
   enabled: true
-  base_url: https://github.com/jasongrimes/jekyll-chapterbook/edit/master/
+  base_url: https://github.com/geik/cv
 
 # Custom CSS
 extra_css:

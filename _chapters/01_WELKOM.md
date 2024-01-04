@@ -1,9 +1,8 @@
 ---
 title: Welkom op mijn Curriculum Vitae
-layout: page
 ---
 
-![](./images/guus_eikens.jpg)
+![Guus Eikens](./images/guus_eikens.jpg)
 
 ## Mijn naam is Guus Eikens .....
 

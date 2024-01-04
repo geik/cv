@@ -2,8 +2,6 @@
 title: Projecten
 ---
 
-# Projecten
-
 ## 2022 - Project NEMO
 
 > Movir
