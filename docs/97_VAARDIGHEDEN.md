@@ -1,6 +1,4 @@
----
-title: Kennis en vaardigheden
----
+# Kennis en vaardigheden
 
 ## Business Process Management
 

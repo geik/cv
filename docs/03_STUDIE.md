@@ -1,6 +1,4 @@
----
-title: Studie
----
+# Studie
 
 ## Muziektechnologie
 

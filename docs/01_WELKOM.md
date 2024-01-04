@@ -1,6 +1,4 @@
----
-title: Welkom op mijn Curriculum Vitae
----
+# Welkom op mijn Curriculum Vitae
 
 ## Mijn naam is Guus Eikens .....
 

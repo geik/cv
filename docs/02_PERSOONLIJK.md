@@ -1,6 +1,4 @@
----
-title: Persoonlijk
----
+# Persoonlijk
 
 - [Sla mijn contactgegevens op](/assets/guus_eikens.vcf)
 

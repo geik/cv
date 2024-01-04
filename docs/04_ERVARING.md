@@ -1,6 +1,4 @@
----
-title: Ervaring
----
+# Ervaring
 
 ## Software Engineer, DevOps Engineer & Software Architect
 

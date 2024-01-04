@@ -1,6 +1,4 @@
----
-title: Ervaring - compleet
----
+# Ervaring - compleet
 
 ## Software Engineer, DevOps Engineer & Software Architect
 
