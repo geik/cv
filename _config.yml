@@ -3,3 +3,7 @@ logo: images/guus_eikens.jpg
 description: Curriculum Vitae
 show_downloads: true
 remote_theme: sighingnow/jekyll-gitbook
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
