@@ -1,4 +1,10 @@
-# Studie
+---
+title: Studie
+author: Guus Eikens
+date: 2024-01-04
+category: CV
+layout: post
+---
 
 ## Muziektechnologie
 
