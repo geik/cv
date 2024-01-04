@@ -10,10 +10,10 @@ Software Engineer, Software Architect, DevOps Engineer, Informatie Analist.
 
 ### Taken
 
-Opzetten van een compleet nieuwe Polisadministratie, ter vervanging van het oude systeem Mosys.  
-Inrichten van een (immutable) Cloud Infrastructuur op Microsoft Azure.   
-Inrichten van CI/CD op Azure DevOps, conform NN Security- & Compliance richtlijnen. 
-Ontwerpen en implementeren van een mechanisme om dit nieuwe systeem eerst te laten schaduwdraaien aan Mosys - en zo live in productie de kwaliteit te kunnen toetsen. Om zo op een gewenst moment definitief "de schakelaar" om te kunnen zetten naar NEMO. 
+- Opzetten van een compleet nieuwe Polisadministratie, ter vervanging van het oude systeem Mosys.  
+- Inrichten van een (immutable) Cloud Infrastructuur op Microsoft Azure.   
+- Inrichten van CI/CD op Azure DevOps, conform NN Security- & Compliance richtlijnen. 
+- Ontwerpen en implementeren van een mechanisme om dit nieuwe systeem eerst te laten schaduwdraaien aan Mosys - en zo live in productie de kwaliteit te kunnen toetsen. Om zo op een gewenst moment definitief "de schakelaar" om te kunnen zetten naar NEMO. 
 
 ### Vaardigheden
 
@@ -507,11 +507,15 @@ Songwriter, musicus.
 > Diverse
 
 ### Rol
+
 Audio Engineer, Sound Designer, Music Technology Specialist, Software Implementation Designer.
+
 ### Taken
-Advisering, Verkoop, Implementatie, Inrichten, Onderhoud & Ondersteuning.
-Apple Pro-Audio & -Video detailhandel, ontwerpen & inrichten muziekstudio; akoestiek, elektronica, automatisering, Muziekinstrumenten Detailhandel
+
+Advisering, Verkoop, Implementatie, Inrichten, Onderhoud & Ondersteuning. Apple Pro-Audio & -Video detailhandel, ontwerpen & inrichten muziekstudio; akoestiek, elektronica, automatisering, Muziekinstrumenten Detailhandel. 
 
 ### Vaardigheden
 
 Muziektechnologie, elektronica, Mac OS.
+
+\pagebreak

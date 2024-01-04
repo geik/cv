@@ -1,4 +1,4 @@
-# Vaardigheden
+# Kennis en vaardigheden
 
 ## Business Process Management
 
@@ -24,6 +24,7 @@
 - IBM Business Process Manager on Cloud
 - Amazon AWS
 - IBM Bluemix
+- Microsoft Azure
 
 ## Application Integration
 
@@ -46,12 +47,17 @@
 
 - Java J2EE, JSP
 
-## Continuous Delivery
+## Automation & Continuous Delivery
 
-- WsAdmin &amp; Jython
+- Artifactory
+- Azure DevOps
 - Jenkins, Nexus
+- Fortify
 - GIT, CVS
+- Gitlab
 - Maven, ANT
+- SonarQube
+- WsAdmin &amp; Jython
 
 ## Test Automation
 
@@ -71,6 +77,7 @@
 - Visual Basic
 - C#
 - Groovy
+- ASP.NET
 - SQL
 - LotusScript
 - REXX
@@ -102,3 +109,5 @@
 - Dutch (native)
 - English
 - German (basic)
+
+\pagebreak

@@ -1,5 +1,7 @@
 # Welkom op mijn Curriculum Vitae
 
+![](./images/guus_eikens.jpg)
+
 ## Mijn naam is Guus Eikens .....
 
 - Allround Software- & DevOps Engineer
@@ -8,8 +10,6 @@
 - Acht jaar ervaring met Agile werken, waarbij actief werkzaam in Scrumteams
 - Gedreven, enthousiast en creatief
 - Kar-trekker, Lead Developer en harde werker
-
-[Download CV](./file/Guus_Eikens_CV_NL_2022.pdf)
 
 ## Waar word ik enthousiast van?
 
@@ -30,3 +30,5 @@ I am enough of an artist to draw freely upon my imagination. Imagination is more
 ```
 
 &copy; Guus Eikens, 2022
+
+\pagebreak

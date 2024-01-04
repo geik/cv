@@ -81,3 +81,5 @@ Onder andere:
     - Dynamic Web Front End Development (HTML4, CSS2, Javascript)
     - IBM/Lotus Notes/Domino Application Development (incl. certification)
     - IBM Mainframe (COBOL, SQL, JCL, CMS, IMS-DB2)
+
+\pagebreak
