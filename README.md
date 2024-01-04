@@ -1,4 +1,3 @@
-# Guus Eikens
 
 ![Guus Eikens](./_chapters/images/guus_eikens.jpg)
 
