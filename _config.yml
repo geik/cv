@@ -132,7 +132,7 @@ defaults:
 # Markdown render engine.
 markdown:         kramdown
 kramdown:
-  auto_ids:               false
+  auto_ids:               true
   input:                  GFM
   math_engine:            mathjax
   smart_quotes:           lsquo,rsquo,ldquo,rdquo
