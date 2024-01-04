@@ -7,8 +7,3 @@ toc:
   enabled: true
   h_min: 1
   h_max: 3
-plugins:
-  - jekyll-toc
-  - jekyll-feed
-  - jekyll-readme-index
-  - jemoji
