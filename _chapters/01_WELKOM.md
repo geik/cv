@@ -2,7 +2,7 @@
 title: Welkom op mijn Curriculum Vitae
 ---
 
-![Guus Eikens](./images/guus_eikens.jpg)
+![Guus Eikens](/assets/guus_eikens.jpg)
 
 ## Mijn naam is Guus Eikens .....
 

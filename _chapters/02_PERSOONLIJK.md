@@ -2,7 +2,7 @@
 title: Persoonlijk
 ---
 
-<!-- - [Sla mijn contactgegevens op](./file/guus_eikens.vcf) -->
+- [Sla mijn contactgegevens op](/assets/guus_eikens.vcf)
 
 | Guus Eikens | &nbsp;                                                                                                                   |
 |-------------|--------------------------------------------------------------------------------------------------------------------------|
