@@ -29,4 +29,4 @@ I am enough of an artist to draw freely upon my imagination. Imagination is more
 ~ Albert Einstein
 ```
 
-&copy; Guus Eikens, 2022
+&copy; Guus Eikens, 2024
