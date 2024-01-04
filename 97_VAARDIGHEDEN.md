@@ -1,30 +1,10 @@
 # Kennis en vaardigheden
 
-## Business Process Management
+## Agile
 
-- IBM Business Process Manager – Standard & IBM Process Designer 8.5.x (expert)
-- IBM Business Process Manager - Advanced & IBM Integration Designer 8.5.x (expert)
-- IBM WebSphere Process Server 7 (expert)
-
-## Front End
-
-- HTML, CSS, JavaScript (expert)
-- jQuery, Dojo, ExtJs, Sencha (expert)
-- Node.js, npm
-
-## Mobile
-
-- Blackberry Webworks Native
-- Blackberry Java Native
-- Phonegap / Apache Cordova
-
-## Cloud
-
-- IBM Blueworks Live
-- IBM Business Process Manager on Cloud
-- Amazon AWS
-- IBM Bluemix
-- Microsoft Azure
+- Scrum
+- Azure DevOps
+- JIRA
 
 ## Application Integration
 
@@ -32,20 +12,6 @@
 - IBM Integration Designer, XSLT (expert)
 - REST, JSON (expert)
 - WebSphere MQ, JMS
-
-## Agile
-
-- Scrum
-
-## Modelling
-
-- BPMN 2.0
-- UML
-- ArchiMate 2
-
-## Back End
-
-- Java J2EE, JSP
 
 ## Automation & Continuous Delivery
 
@@ -59,17 +25,62 @@
 - SonarQube
 - WsAdmin &amp; Jython
 
-## Test Automation
+## Back End Development
 
-- Parasoft SOATest (expert)
-- SmartBear SOAP-UI
-- Cucumber, Selenium
-- HP UFT
-- You-Get APPTESTer
+- ASP.NET
+- Java J2EE, JSP
+
+## Business Process Management
+
+- IBM Business Process Manager – Standard & IBM Process Designer 8.5.x (expert)
+- IBM Business Process Manager - Advanced & IBM Integration Designer 8.5.x (expert)
+- IBM WebSphere Process Server 7 (expert)
+
+## Cloud
+
+- IBM Blueworks Live
+- IBM Business Process Manager on Cloud
+- Amazon AWS
+- IBM Bluemix
+- Microsoft Azure
+
+## Databases
+
+- Amazon RDS
+- Oracle
+- DB2
+- SQL Server
+- mySQL
+- PostgreSQL
+
+## Front End Development
+
+- HTML, CSS, JavaScript (expert)
+- jQuery, Dojo, ExtJs, Sencha
+- Node.js, npm
+
+## IDE
+
+- VSCode, Visual Studio
+- JetBrains Rider, IntelliJ, etc. etc.
+- Eclipse
+- Lotus Domino Designer for Web applications
+
+## Mobile
+
+- Blackberry Webworks Native
+- Blackberry Java Native
+- Phonegap / Apache Cordova
+
+## Modelling
+
+- ArchiMate 2
+- BPMN 2.0
+- UML
 
 ## Programming Languages
 
-- JavaScript (expert)
+- JavaScript
 - Java
 - Logo &amp; LISP
 - C, C++
@@ -82,27 +93,19 @@
 - LotusScript
 - REXX
 
-## Databases
-
-- Amazon RDS
-- Oracle
-- DB2
-- SQL Server
-- mySQL
-- PostgreSQL
-
 ## Protocols
 
 - HTTP/HTTPS
 - TCP/IP
 - IMAP, POP, SMTP
 
-## IDE
+## Test Automation
 
-- VSCode, Visual Studio
-- JetBrains Rider, IntelliJ, etc. etc.
-- Eclipse
-- Lotus Domino Designer for Web applications
+- Parasoft SOATest (expert)
+- SmartBear SOAP-UI
+- Cucumber, Selenium
+- HP UFT
+- You-Get APPTESTer
 
 ## Other
 

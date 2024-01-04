@@ -13,6 +13,6 @@
 
 - [Kennis en vaardigheden](/97_VAARDIGHEDEN.md)
 - [Training](/98_TRAINING.md)
-- [Ervaring - uitgebreid](/99_ERVARING_COMPLEET.md)
+- [Ervaring - compleet](/99_ERVARING_COMPLEET.md)
 
 &copy; Guus Eikens, 2024
