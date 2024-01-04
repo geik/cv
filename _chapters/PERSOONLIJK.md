@@ -1,3 +1,7 @@
+---
+title: Persoonlijk
+---
+
 # Persoonlijke gegevens
 
 - [Sla mijn contactgegevens op](../file/guus_eikens.vcf)

@@ -1,4 +1,6 @@
-# Welkom op mijn Curriculum Vitae
+---
+title: Welkom op mijn Curriculum Vitae
+---
 
 ![](./images/guus_eikens.jpg)
 

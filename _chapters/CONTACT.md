@@ -1,4 +1,6 @@
-# Contact
+---
+title: Contact
+---
 
 - <span class="glyphicon glyphicon-earphone">&nbsp;</span>[+31 6 30 38 32 88](phone:+31630383288)
 - <span class="glyphicon glyphicon-envelope">&nbsp;</span>[guus@eikens.com](mailto:guus@eikens.com)

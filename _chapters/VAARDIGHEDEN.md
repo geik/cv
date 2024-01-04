@@ -1,3 +1,7 @@
+---
+title: Vaardigheden
+---
+
 # Kennis en vaardigheden
 
 ## Business Process Management

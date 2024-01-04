@@ -1,4 +1,6 @@
-# Opleidingen
+---
+title: Training
+---
 
 ## 2019
 
