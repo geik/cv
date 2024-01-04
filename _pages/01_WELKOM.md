@@ -1,5 +1,6 @@
 ---
 title: Welkom op mijn Curriculum Vitae
+layout: page
 ---
 
 ![](./images/guus_eikens.jpg)

@@ -1,5 +1,6 @@
 ---
 title: Persoonlijk
+layout: page
 ---
 
 # Persoonlijke gegevens
