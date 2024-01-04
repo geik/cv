@@ -1,8 +1,11 @@
-title: Guus Eikens
-logo: images/guus_eikens.jpg
-description: Curriculum Vitae
-show_downloads: true
 remote_theme: jasongrimes/jekyll-chapterbook
+
+title: Guus Eikens
+longtitle: Guus Eikens
+author: Guus Eikens
+email: guus@eikens.com
+description: >
+  Welkom op mijn Curriculum Vitae
 
 baseurl_canonical: https://github.com/geik/cv
 
@@ -13,7 +16,7 @@ baseurl_canonical: https://github.com/geik/cv
 # Set copyright: false to disable.
 copyright:
   start_year: 2024
-  url: /book.html
+  # url: /book.html
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path: assets/gitbook/images/favicon.ico
@@ -26,9 +29,9 @@ favicon_path: assets/gitbook/images/favicon.ico
 # The book and contents pages need to be made manually.
 # All "url" variables should have a leading slash.
 bookcrumbs:
-  book_url: /book.html
-  contents_url: /contents.html
-  book_icon: assets/gitbook/images/apple-touch-icon-precomposed-152.png
+  # book_url: /book.html
+  # contents_url: /contents.html
+  # book_icon: assets/gitbook/images/apple-touch-icon-precomposed-152.png
 
 # Links shown above the TOC in the sidebar
 # All "url" variables should have a leading slash.
@@ -39,22 +42,22 @@ sidebar_nav_top:
 # Links shown below the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_bottom:
-- label: Draft outline
-  url: /outline.html
-- label: Fork at GitHub
-  url: https://geik.github.com/cv
+# - label: Draft outline
+#   url: /outline.html
+# - label: Fork at GitHub
+#   url: https://geik.github.com/cv
 
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.
 bottom_nav:
 - label: Home
   url: /index.html
-- label: Book
-  url: /book.html
-- label: GitHub
-  url: https://geik.github.com/cv
-- label: Privacy
-  url: /privacy.html
+# - label: Book
+#   url: /book.html
+# - label: GitHub
+#   url: https://geik.github.com/cv
+# - label: Privacy
+#   url: /privacy.html
 
 
 # Whether to show chapter headings as a table of contents at the top of each chapter page.
@@ -77,7 +80,7 @@ sidebar_toc:
 
 # Show a link to edit each page on GitHub
 github_edit:
-  enabled: true
+  enabled: false
   base_url: https://github.com/geik/cv
 
 # Custom CSS
@@ -129,7 +132,7 @@ defaults:
 # Markdown render engine.
 markdown:         kramdown
 kramdown:
-  auto_ids:               true
+  auto_ids:               false
   input:                  GFM
   math_engine:            mathjax
   smart_quotes:           lsquo,rsquo,ldquo,rdquo
