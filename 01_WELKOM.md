@@ -1,5 +1,7 @@
 # Welkom op mijn Curriculum Vitae
 
+![Guus Eikens](/assets/guus_eikens.jpg)
+
 ## Mijn naam is Guus Eikens .....
 
 - Allround Software- & DevOps Engineer
