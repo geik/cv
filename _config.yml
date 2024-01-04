@@ -33,7 +33,7 @@ bookcrumbs:
 # Links shown above the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_top:
-- label: Jekyll Chapterbook Theme
+- label: CV
   url: /index.html
 
 # Links shown below the TOC in the sidebar
@@ -42,7 +42,7 @@ sidebar_nav_bottom:
 - label: Draft outline
   url: /outline.html
 - label: Fork at GitHub
-  url: https://github.com/jasongrimes/jekyll-chapterbook/fork
+  url: https://geik.github.com/cv
 
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.
@@ -52,7 +52,7 @@ bottom_nav:
 - label: Book
   url: /book.html
 - label: GitHub
-  url: https://github.com/jasongrimes/jekyll-chapterbook
+  url: https://geik.github.com/cv
 - label: Privacy
   url: /privacy.html
 
