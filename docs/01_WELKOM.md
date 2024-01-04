@@ -2,8 +2,6 @@
 title: Welkom op mijn Curriculum Vitae
 ---
 
-![Guus Eikens](/assets/guus_eikens.jpg)
-
 ## Mijn naam is Guus Eikens .....
 
 - Allround Software- & DevOps Engineer
@@ -30,5 +28,3 @@ title: Welkom op mijn Curriculum Vitae
 I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.  
 ~ Albert Einstein
 ```
-
-&copy; Guus Eikens, 2024
