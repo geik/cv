@@ -1,5 +1,5 @@
-title: Guus Eikens Curriculum Vitae
+title: Guus Eikens
 logo: images/guus_eikens.jpg
-description: Guus Eikens Curriculum Vitae
+description: Curriculum Vitae
 show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: sighingnow/jekyll-gitbook
