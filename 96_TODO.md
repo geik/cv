@@ -21,3 +21,4 @@ Ik wil:
 1. C# Refactoring
 1. Azure Identity Management
 1. C# Advanced
+1. Git "under the hood"
