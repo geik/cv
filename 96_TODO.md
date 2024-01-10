@@ -15,10 +15,3 @@ Ik wil:
 1. Ik moet vaak collega's aan het begin van een klus de juiste mindset en kaders meegeven. Ik wil hier beter in worden. 
 1. Meer begrip en kennis krijgen van het fenomeen "complexiteit".
 1. Snappen waarom veel collega's (vooral externen) de neiging hebben om complexiteit hopeloos te onderschatten. Ik wil ook weten wat ik zelf kan doen om iets te doen aan deze onderschatting. 
-
-## Training ideeen - technisch inhoudelijk
-
-1. C# Refactoring
-1. Azure Identity Management
-1. C# Advanced
-1. Git "under the hood"
