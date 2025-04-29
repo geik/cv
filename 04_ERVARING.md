@@ -14,7 +14,7 @@
   - Bewaken van kwaliteit & security guidelines, inrichten van geautomatiseerde quality gates
 - Migreren vanuit het bestaande legacy systeem Mosys
 - Integreren met andere IT systemem; intern & extern
-- Ondersteuning & advies van het Movir Container Platform Team
+- Ondersteuning & advies van andere Movir teams mbt. Cloud, CI/CD en applicatie integratie
 
 ### 2019 - 2022
 
