@@ -9,21 +9,21 @@
 - Ontwerpen & implementeren van Nemo; een maatwerk cloud-native verzekeringsadministratie voor arbeidsongeschiktheid. Met daarbinnen onder andere:
   - Selectie van een strategische business partner
   - Opzetten van een DevOps team
-  - Brainstorming obv. DDD principes
+  - Brainstorming & analyse obv. DDD principes
   - Architectuur beschrijving & bewaking
   - Bewaken van kwaliteit & security guidelines & inrichten van geautomatiseerde quality gates
-- Migreren vanuit het verouderdere bestaande systeem Mosys.
-- Integratie met andere IT systemem; intern & extern.
-- Ondersteuning & advies van het Movir Container Platform Team.
+- Migreren vanuit het bestaande legacy systeem Mosys
+- Integreren met andere IT systemem; intern & extern
+- Ondersteuning & advies van het Movir Container Platform Team
 
 ### 2019 - 2022
 
 > Movir
 
-- Movir ondersteunen bij Digitalisering en Cloud Transformatie.
-- Movir ondersteunen om te voldoen aan wet- & regelgeving.
-- Software ontwikkeling API's, inrichten van Cloud diensten, integreren van applicaties.
-- Development obv. ASP.Net Core, CI/CD automation met Gitlab, deployment als containers op Kubernetes/AWS.
+- Movir ondersteunen bij Digitalisering en Cloud Transformatie
+- Movir ondersteunen om te voldoen aan wet- & regelgeving
+- Software ontwikkeling API's, inrichten van Cloud diensten, integreren van applicaties
+- Development obv. ASP.Net Core, CI/CD automation met Gitlab, deployment als containers op Kubernetes/AWS
 
 ## Software Engineer
 
@@ -33,9 +33,9 @@
 
 Continue lerend en op weg om ALLES in code te vatten. Infrastructuur, Deployment, Tests, Bedrijfslogica. Klein, behapbaar, beheersbaar.  
 
-Main driver: Turning an Insurance company into an IT company.  
-Main areas: MicroService & API design, Java & Spring software development, Continuous Delivery, Software Architecture and ... Business Process Management.  
-Main tools: VsCode, plain text & Git. MicroServices, Domain Driven Design. Java, Maven, Spring, SpringBoot. JavaScript. Gitlab, Jenkins.  
+Stimulans: Van een verzekeringsbedrijf een IT-bedrijf maken.
+Aandachtsgebieden: MicroService & API design, Java & Spring software development, Continuous Delivery, Software Architecture and ... Business Process Management. 
+Tools: VsCode, plain text & Git. MicroServices, Domain Driven Design. Java, Maven, Spring, SpringBoot. JavaScript. Gitlab, Jenkins. 
 
 ## BPM Competence Technical Lead
 

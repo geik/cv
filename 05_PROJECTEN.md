@@ -10,14 +10,15 @@ Software Engineer, Software Architect, DevOps Engineer, Informatie Analist.
 
 ### Taken
 
-- Opzetten van een compleet nieuwe Polisadministratie, ter vervanging van het oude systeem Mosys.  
-- Inrichten van een (immutable) Cloud Infrastructuur op Microsoft Azure.   
-- Inrichten van CI/CD op Azure DevOps, conform NN Security- & Compliance richtlijnen. 
-- Ontwerpen en implementeren van een mechanisme om dit nieuwe systeem eerst te laten schaduwdraaien aan Mosys - en zo live in productie de kwaliteit te kunnen toetsen. Om zo op een gewenst moment definitief "de schakelaar" om te kunnen zetten naar NEMO. 
+- Opzetten van een compleet nieuwe Polisadministratie, ter vervanging van het oude systeem Mosys
+- Inrichten van een (immutable) Cloud Infrastructuur op Microsoft Azure
+- Inrichten van CI/CD op Azure DevOps, conform NN Security- & Compliance richtlijnen
+- Inrichten van tools voor conversie en kwaliteitsbewaking
+- Inrichten van koppelingen met andere systemen - intern en extern
 
 ### Vaardigheden
 
-Whatever gets the job done.
+Whatever gets the job done. Ik ben een uitgesproken IT-generalist, het spreekwoordelijke "Schaap met 5 poten". Een "Jack of all trades".
 
 ## 2021 - Ondersteunen Digitalisering met meerdere API's
 
