@@ -15,4 +15,4 @@
 - [Training](/98_TRAINING.md)
 - [Ervaring - compleet](/99_ERVARING_COMPLEET.md)
 
-&copy; Guus Eikens, 2024
+&copy; Guus Eikens, 2025
