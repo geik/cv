@@ -11,7 +11,7 @@
   - Opzetten van een DevOps team
   - Brainstorming & analyse obv. DDD principes
   - Architectuur beschrijving & bewaking
-  - Bewaken van kwaliteit & security guidelines & inrichten van geautomatiseerde quality gates
+  - Bewaken van kwaliteit & security guidelines, inrichten van geautomatiseerde quality gates
 - Migreren vanuit het bestaande legacy systeem Mosys
 - Integreren met andere IT systemem; intern & extern
 - Ondersteuning & advies van het Movir Container Platform Team
